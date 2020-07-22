@@ -4,7 +4,7 @@ My solution to Kogan's recruiment coding challenge.
 
 ## Language
 
-This an android app programmed with Kotlin
+This is an android app programmed with Kotlin
 
 ## Downloads
 
